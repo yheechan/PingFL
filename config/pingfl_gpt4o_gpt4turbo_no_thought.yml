@@ -1,7 +1,7 @@
 agent: pingfl
 dependencies:
-  java_agent_lib: /home/qyh/projects/FixFL/MethodCallGraphBuilder/target/MethodCallGraphBuilder-1.0.jar
-  bug_exec: /home/qyh/DATASET/defects4j-2.0.1/framework/bin/defects4j
+  java_agent_lib: /ssd_home/yangheechan/LLMFL/PingFL/MethodCallGraphBuilder/target/MethodCallGraphBuilder-1.0.jar
+  bug_exec: /home/yangheechan/.d4j_src/defects4j-2.0.1/framework/bin/defects4j
 search_model:
   org: openai
   model: gpt-4o-2024-11-20
